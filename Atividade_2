@@ -1,0 +1,2 @@
+Uma subclasse pode executar o construtor de sua superclasse utilizando a palavra-chave super seguida dos parâmetros necessários para chamar o construtor 
+correspondente da superclasse. O construtor da superclasse é chamado logo na primeira linha do construtor da subclasse.
