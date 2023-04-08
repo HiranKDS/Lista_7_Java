@@ -1,0 +1,8 @@
+Resultado que é impresso: 
+
+Construção de A.
+Construção de B.
+Construção de C.
+
+Isso acontece devido a Classe B ser uma extenção da A, e a Classe C uma extensão da B, sendo assim ele imprime o resultado de todas as Classe chamando somente 
+a classe C.
