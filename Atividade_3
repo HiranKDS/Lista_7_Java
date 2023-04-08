@@ -1,0 +1,1 @@
+Sim, os parâmetros podem ser passados via super() para chamar o construtor da superclasse. Isso é útil quando a superclasse tem um construtor que requer argumentos. 
