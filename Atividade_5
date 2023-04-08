@@ -1,0 +1,6 @@
+b. Todos os três métodos da classe A: m1(), m2() e m3() podem ser acessados por objetos da classe A.
+
+c. Todos os cinco métodos podem ser acessados por objetos da classe B: m1() é herdado de A e todos os métodos públicos da superclasse podem ser acessados por suas 
+subclasses, além dos próprios métodos m4() e m5() definidos em B.
+
+d. Se m1() fosse declarado como private, apenas m2() e m3() poderiam ser acessados por objetos da classe B. Métodos privados não podem ser acessados por subclasses.
