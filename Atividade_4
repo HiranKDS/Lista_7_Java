@@ -1,0 +1,4 @@
+Não, a chamada a super() deve ser sempre a primeira instrução do construtor de uma subclasse, caso contrário, o compilador emitirá um erro. 
+Isso ocorre porque a primeira instrução do construtor de uma subclasse deve ser a invocação do construtor da superclasse, que inicializa os membros herdados 
+antes de a subclasse fazer suas próprias inicializações. Portanto, a chamada a super() é essencial para garantir que a hierarquia de classes seja construída 
+corretamente.
